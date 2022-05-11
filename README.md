@@ -13,6 +13,6 @@ Steps:
 3. The total volume in any well in column 1 of rack 7 is less than 180 mL.
 
 **Note**
+When taking a volume_x of sample with concentration_x and a buffer volume_y, the concentration of the resulting volume is:
 
-
-<img src="https://render.githubusercontent.com/render/math?math=\mathrm{concentration}_z = \mathrm{concentration}_x\times\frac{\mathrm{volume}_x}{\mathrm{volume}_y}">
+<img src="https://render.githubusercontent.com/render/math?math=\mathrm{concentration}_z = \mathrm{concentration}_x\times\frac{\mathrm{volume}_x}{\mathrm{volume}_x+\mathrm{volume}_y}">
