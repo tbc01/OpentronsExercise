@@ -37,10 +37,12 @@ def run(protocol: protocol_api.ProtocolContext):
     #these are the actual ppettes that move things around
     p20  = protocol.load_instrument('p20_single_gen2','left',tip_racks=tips[20])
 
-    #TODO: READ INPUT FROM `input.csv` SO THAT WE KNOW CONCENTRATION IN INPUT WELLS
+    #read input into pandas dataframe
 
     #TODO: PERFORM THE DILUTION FROM COLUMN 1 of START PLATE TO COLUMN 1 of DILUTION PLATE 
     #      s.t. concentration of all samples in diultion plate is 9 ug/mL
+    #Easiest method is to iterate through the input dataframe and add the appropriate amount of reservoir
+    #then iterate again and add the appropriate amount of sample.  This is to save tips.
 
     #EXAMPLE MOVE: take 15 mL of the sample in A1 of the start plate and dispense it in A1 of the dilution plate
     p20.pick_up_tip()
