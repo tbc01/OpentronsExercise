@@ -15,4 +15,4 @@ Steps:
 **Note**
 
 
-<img src="https://render.githubusercontent.com/render/math?math=conc_z = conc_x\times\frac{volume_x}{volume_y}">
+<img src="https://render.githubusercontent.com/render/math?math=\mathrm{concentration}_z = \mathrm{concentration}_x\times\frac{\mathrm{volume}_x}{\mathrm{volume}_y}">
