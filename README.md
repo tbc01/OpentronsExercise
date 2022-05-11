@@ -13,5 +13,5 @@ Steps:
 3. The total volume in any well in column 1 of rack 7 is less than 180 mL.
 
 **Note**
-$conc_z = conc_x\times\frac{volume_x}{volume_y}$
+<img src="https://render.githubusercontent.com/render/math?math=conc_z = conc_x\times\frac{volume_x}{volume_y}">
  
