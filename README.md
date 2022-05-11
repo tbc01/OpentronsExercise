@@ -16,3 +16,8 @@ Steps:
 When taking a volume_x of sample with concentration_x and a buffer volume_y, the concentration of the resulting volume is:
 
 <img src="https://render.githubusercontent.com/render/math?math=\mathrm{concentration}_z = \mathrm{concentration}_x\times\frac{\mathrm{volume}_x}{\mathrm{volume}_x+\mathrm{volume}_y}">
+
+
+**Appendix labware and locations defined in dilution_exercise.py**
+
+![image](https://user-images.githubusercontent.com/25331992/167941364-2682cd35-5af5-4309-b6af-4a8045e976ae.png)
