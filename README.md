@@ -21,7 +21,7 @@ Steps:
 
 When taking a volume_x of sample with concentration_x and a buffer volume_y, the concentration of the resulting volume is:
 
-<img src="https://render.githubusercontent.com/render/math?math=\mathrm{concentration}_z = \mathrm{concentration}_x\times\frac{\mathrm{volume}_x}{\mathrm{volume}_x + \mathrm{volume}_y}">
+<img src="https://render.githubusercontent.com/render/math?math=\mathrm{concentration}_z = \mathrm{concentration}_x\times\frac{\mathrm{volume}_x}{\mathrm{volume}_x \plus \mathrm{volume}_y}">
 
 
 **Appendix**
