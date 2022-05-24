@@ -10,7 +10,7 @@
 **Objective: All concentrations of the samples in column 1 of rack 7 are 9 ug/mL, where the sample in A1 of rack 7 is transferred from the sample in A1 of rack 10, etc**
 Steps:
 **1.** Transfer (a possibly variable) volume of buffer from the reservoir on rack 11.
-**2.** Transfer (a possibly variable) amount of sample from each of A1...12 on rack 10 to the corresponding well in rack 7.
+**2.** Transfer (a possibly variable) amount of sample from each of A1...H1 on rack 10 to the corresponding well in rack 7.
 
 **Constraints:**
 1. Each tip can only touch 1 sample (necessary to pick up and drop tips)
